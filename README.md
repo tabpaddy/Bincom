@@ -135,7 +135,7 @@ LGA
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/bincom-election.git
+git clone https://github.com/tabpaddy/Bincom.git
 ```
 
 ```
